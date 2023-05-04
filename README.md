@@ -27,6 +27,9 @@ Simple web calculator created for college internship. This calculator can only f
 - H2 Database
 - Spring Test
 
+## H2 set up
+Configure database according to [application.properties](https://github.com/Denstran/SimpleCalculator/blob/master/src/main/resources/application.properties) file
+
 ## Developers
 
 - [Stradze Kirill](https://github.com/Denstran)
