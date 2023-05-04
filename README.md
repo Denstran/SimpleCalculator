@@ -18,6 +18,15 @@ Simple web calculator created for college internship. This calculator can only f
       <img src="https://i.ibb.co/xX4447Y/03-05-2023-212733.jpg" width="1606" height="543">
 </p>
 
+## Technology stack
+- Spring Boot
+- Spring Data Jpa
+- Spring MVC
+- Spring Doc
+- Lombok
+- H2 Database
+- Spring Test
+
 ## Developers
 
 - [Stradze Kirill](https://github.com/Denstran)
